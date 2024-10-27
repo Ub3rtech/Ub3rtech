@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=0ECF2C&center=true&width=435&lines=%7C-%7C4CK+TH3+W0RLD)](https://git.io/typing-svg)
 ## Hi there
 
 I'm Ubertech, a hacker, a cyptography spec.
