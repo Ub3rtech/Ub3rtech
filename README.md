@@ -3,7 +3,7 @@
 
 I'm Ubertech, a hacker, a cyptographer.
 
-Play CTF, write posts in the [crpyto-channel](t.me/crypT34m).
+Play CTF, write posts in the telegram channel ["CRYPT34M"](t.me/crypT34m).
 
 <details>
   <summary>More about me</summary>
