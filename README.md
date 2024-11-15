@@ -10,9 +10,9 @@ Playing CTF, writting posts in the telegram channel ["CRYPT34M"](t.me/crypT34m).
 
 <details>
   <summary>More about me</summary>
-- **Name**: Ubertech | Ub3rtech | Ub3rt3ch
-- **From**: Russia
-- **Email**: ubertech431@gmail.com
+  - **Name**: Ubertech | Ub3rtech | Ub3rt3ch
+  - **From**: Russia
+  - **Email**: ubertech431@gmail.com
 </details>
 
 ![не грузит сцук](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG4wZ3JsaGdva2w1b3N0eG9ucWI2cDdqcHQ3NDFjcmhrb2ZmZnMxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4UzW8S83pWoKs/giphy.webp)
