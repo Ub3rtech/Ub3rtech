@@ -5,7 +5,7 @@ I'm Ubertech, a hacker, a cyptographer, a security researcher.
 
 Playing CTF, writting posts in the telegram channel ["CRYPT34M"](t.me/crypT34m).
 - Captain of [F0R8IDD3N](https://ctftime.org/team/309255) team
-- Member of [RHT](https://ctftime.org/team/186788) team
+- Member of [MATPEIIIKA](https://ctftime.org/team/368060) team
 - Expert level athlete in sports programming (КМС по спортивному программированию)
 
 <details>
